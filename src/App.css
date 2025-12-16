@@ -25,6 +25,10 @@ h1 {
   text-align: center;
 }
 
+.purple-title {
+  color: #8A2BE2 !important;
+}
+
 h2 {
   color: #666;
   font-size: 18px;
